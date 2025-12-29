@@ -1,0 +1,4 @@
+C:\OPPS\VB_APP\obj\Debug\net9.0\VB_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\OPPS\VB_APP\obj\Debug\net9.0\VB_APP.AssemblyInfoInputs.cache
+C:\OPPS\VB_APP\obj\Debug\net9.0\VB_APP.AssemblyInfo.vb
+C:\OPPS\VB_APP\obj\Debug\net9.0\VB_APP.vbproj.CoreCompileInputs.cache

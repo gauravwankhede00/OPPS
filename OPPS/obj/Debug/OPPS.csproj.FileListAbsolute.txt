@@ -1,0 +1,86 @@
+E:\MNC Practice\OPPS\OPPS\bin\Debug\OPPS.exe.config
+E:\MNC Practice\OPPS\OPPS\bin\Debug\OPPS.exe
+E:\MNC Practice\OPPS\OPPS\bin\Debug\OPPS.pdb
+E:\MNC Practice\OPPS\OPPS\obj\Debug\OPPS.csprojResolveAssemblyReference.cache
+E:\MNC Practice\OPPS\OPPS\obj\Debug\OPPS.exe
+E:\MNC Practice\OPPS\OPPS\obj\Debug\OPPS.pdb
+E:\MNC Practice\OPPS\OPPS\bin\Debug\Inventory.dll
+E:\MNC Practice\OPPS\OPPS\bin\Debug\Inventory.pdb
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\obj\Debug\OPPS.csproj.AssemblyReference.cache
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\obj\Debug\OPPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\obj\Debug\OPPS.csproj.CoreCompileInputs.cache
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\OPPS.exe.config
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\OPPS.exe
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\OPPS.pdb
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\EntityFramework.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Inventory.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Remotion.Linq.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\System.Collections.Immutable.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\System.Interactive.Async.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Inventory.pdb
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\EntityFramework.xml
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\Remotion.Linq.xml
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\System.Collections.Immutable.xml
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\bin\Debug\System.Interactive.Async.xml
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\obj\Debug\OPPS.csproj.CopyComplete
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\obj\Debug\OPPS.exe
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\OPPS\obj\Debug\OPPS.pdb
+C:\OPPS\OPPS\bin\Debug\OPPS.exe.config
+C:\OPPS\OPPS\bin\Debug\OPPS.exe
+C:\OPPS\OPPS\bin\Debug\OPPS.pdb
+C:\OPPS\OPPS\bin\Debug\EntityFramework.dll
+C:\OPPS\OPPS\bin\Debug\EntityFramework.SqlServer.dll
+C:\OPPS\OPPS\bin\Debug\Inventory.dll
+C:\OPPS\OPPS\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\OPPS\OPPS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\OPPS\OPPS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\OPPS\OPPS\bin\Debug\Remotion.Linq.dll
+C:\OPPS\OPPS\bin\Debug\System.Collections.Immutable.dll
+C:\OPPS\OPPS\bin\Debug\System.Interactive.Async.dll
+C:\OPPS\OPPS\bin\Debug\Inventory.pdb
+C:\OPPS\OPPS\bin\Debug\EntityFramework.xml
+C:\OPPS\OPPS\bin\Debug\EntityFramework.SqlServer.xml
+C:\OPPS\OPPS\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\OPPS\OPPS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\OPPS\OPPS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\OPPS\OPPS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\OPPS\OPPS\bin\Debug\Remotion.Linq.xml
+C:\OPPS\OPPS\bin\Debug\System.Collections.Immutable.xml
+C:\OPPS\OPPS\bin\Debug\System.Interactive.Async.xml
+C:\OPPS\OPPS\obj\Debug\OPPS.csproj.AssemblyReference.cache
+C:\OPPS\OPPS\obj\Debug\OPPS.exe.config
+C:\OPPS\OPPS\obj\Debug\OPPS.csproj.CoreCompileInputs.cache
+C:\OPPS\OPPS\obj\Debug\OPPS.csproj.Up2Date
+C:\OPPS\OPPS\obj\Debug\OPPS.exe
+C:\OPPS\OPPS\obj\Debug\OPPS.pdb

@@ -1,0 +1,17 @@
+E:\MNC Practice\OPPS\Inventory\bin\Debug\Inventory.dll
+E:\MNC Practice\OPPS\Inventory\bin\Debug\Inventory.pdb
+E:\MNC Practice\OPPS\Inventory\obj\Debug\Inventory.dll
+E:\MNC Practice\OPPS\Inventory\obj\Debug\Inventory.pdb
+E:\MNC Practice\OPPS\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\Inventory\bin\Debug\Inventory.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\Inventory\bin\Debug\Inventory.pdb
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\Inventory\obj\Debug\Inventory.dll
+C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\Inventory\obj\Debug\Inventory.pdb
+C:\OPPS\Inventory\bin\Debug\Inventory.dll
+C:\OPPS\Inventory\bin\Debug\Inventory.pdb
+C:\OPPS\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\OPPS\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\OPPS\Inventory\obj\Debug\Inventory.dll
+C:\OPPS\Inventory\obj\Debug\Inventory.pdb

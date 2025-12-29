@@ -1,0 +1,10 @@
+5/14/2025 12:59:32 PM	This log contains information about the import schema operation into project 'Database1' on computer 'IN-IT11990' by user 'gaurav.wankhede'.
+5/14/2025 12:59:32 PM	Deserializing model
+5/14/2025 12:59:32 PM	Resolving model
+5/14/2025 12:59:32 PM	Visiting imported model for types
+5/14/2025 12:59:32 PM	Scanning project for duplicate elements
+5/14/2025 12:59:32 PM	Finished duplicate element processing
+5/14/2025 12:59:32 PM	Processing extra files
+5/14/2025 12:59:32 PM	Finished importing Data-tier Application file.
+5/14/2025 12:59:32 PM	A summary of the import was saved to the following location: C:\Users\gaurav.wankhede\Downloads\OPPS\OPPS\Database1\Import Schema Logs\Database1_20250514072932.log
+5/14/2025 12:59:32 PM	Click Finish to continue...
