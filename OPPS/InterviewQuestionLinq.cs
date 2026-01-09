@@ -24,26 +24,7 @@ namespace OPPS
         static string abc(string a) { return a; }
         static string abc(string a, string b = null) { return a; }
 
-        public string Decrypt(string cipherText)
-        {
-
-        private static readonly TextInfo ti = CultureInfo.CurrentCulture.TextInfo;
-        private const string key = "b14ca5898a4e4133bbce2ea2315a1916";
-
-        string ciphertext = $"EYUMmecaluJyVTxJmMskV7QgbJ4Ce8GmYQ3Xo6xzr2avQOebzxXA79MvhWGkHUEMo9WThtJJKn6TDOI7jF1IlJBM6LxOHgBnYSep/LncwS2ReczdFExk8V/jucmFlSK6r/m75h0zdogo16zCMZTYoe3oRA/dxzx5obU/szv1IQA=";
-
-
-        byte[] iv = new byte[16];
-        byte[] buffer = Convert.FromBase64String(cipherText);
-     using Aes aes = Aes.Create();
-     aes.Key = Encoding.UTF8.GetBytes(key);
-     aes.IV = iv;
-     ICryptoTransform decryptor = aes.CreateDecryptor(aes.Key, aes.IV);
-     using MemoryStream memoryStream = new (buffer);
-     using CryptoStream cryptoStream = new (memoryStream, decryptor, CryptoStreamMode.Read);
-     using StreamReader streamReader = new (cryptoStream);
-     return streamReader.ReadToEnd();
- }
+       
 static void Main()
 {
     string input = "Hello World from C#";

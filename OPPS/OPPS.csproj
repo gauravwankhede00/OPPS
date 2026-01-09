@@ -176,10 +176,10 @@
     <Compile Include="Student.cs" />
     <Compile Include="Test.cs" />
     <Compile Include="Threading\AsyncExample.cs" />
+    <Compile Include="Threading\Threading1.cs" />
     <Compile Include="Threading\MultiThreading_Lock.cs" />
     <Compile Include="Threading\MultiThreading_start_join.cs" />
     <Compile Include="Threading\TaskWaitAllExample.cs" />
-    <Compile Include="Threading\Threading1.cs" />
     <Compile Include="UnitOfWork.cs" />
     <Compile Include="UsingStatement.cs" />
     <Compile Include="VirtualMethod.cs" />
